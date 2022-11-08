@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\bin\Debug\net6.0\Rabota3.exe
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\bin\Debug\net6.0\Rabota3.deps.json
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\bin\Debug\net6.0\Rabota3.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\bin\Debug\net6.0\Rabota3.dll
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\bin\Debug\net6.0\Rabota3.pdb
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\obj\Debug\net6.0\Rabota3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\obj\Debug\net6.0\Rabota3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\obj\Debug\net6.0\Rabota3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\obj\Debug\net6.0\Rabota3.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\obj\Debug\net6.0\Rabota3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\obj\Debug\net6.0\Rabota3.dll
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\obj\Debug\net6.0\refint\Rabota3.dll
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\obj\Debug\net6.0\Rabota3.pdb
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\obj\Debug\net6.0\Rabota3.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota3\obj\Debug\net6.0\ref\Rabota3.dll

@@ -6,8 +6,8 @@ void Print(int[] massiv)
     {
         Console.Write($"{massiv[i]} ");
     }
-    Console.WriteLine();    
-}
+    Console.WriteLine(); 
+}   
 //Создание массива
 int[] Create(int dlina2)
 {

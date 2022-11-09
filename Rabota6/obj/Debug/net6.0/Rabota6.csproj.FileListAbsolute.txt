@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\obj\Debug\net6.0\Rabota6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\obj\Debug\net6.0\Rabota6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\obj\Debug\net6.0\Rabota6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\obj\Debug\net6.0\Rabota6.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\obj\Debug\net6.0\Rabota6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\bin\Debug\net6.0\Rabota6.exe
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\bin\Debug\net6.0\Rabota6.deps.json
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\bin\Debug\net6.0\Rabota6.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\bin\Debug\net6.0\Rabota6.dll
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\bin\Debug\net6.0\Rabota6.pdb
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\obj\Debug\net6.0\Rabota6.dll
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\obj\Debug\net6.0\refint\Rabota6.dll
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\obj\Debug\net6.0\Rabota6.pdb
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\obj\Debug\net6.0\Rabota6.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\ДЗ\07.11.22\Rabota3\Rabota6\obj\Debug\net6.0\ref\Rabota6.dll

@@ -1,17 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-int N =23;
-int[] arr = new int[];
-int[] Sic(N)
-Print (arr);
-{
-    for(int j = 0; j < array.Length; j++) arr[i]=Sic(N-1);
-    return arr;
-}
-
-void Print (int[] array)
-{
-    for (int j = 0; j < array.Length; j++)
+﻿Console.WriteLine("Введите натуральное число больше 1:");
+int number1 = int.Parse(Console.ReadLine());
+            
+void NumberCounter(int number)
     {
-      Console.Write(array[j] + " ");
+    if (number == 0) return;
+    NumberCounter(number - 1);
+    Console.WriteLine(" "+number);
     }
-}
+
+ NumberCounter(number1);
